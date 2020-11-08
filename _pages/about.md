@@ -8,14 +8,14 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p><a href="http://linguistics.northwestern.edu/" title="Northwestern Linguistics"> Department of Linguistics</a></p>
+    <p><a style="color:var(--global-text-color)" href="http://linguistics.northwestern.edu/" title="Northwestern Linguistics"> Department of Linguistics</a></p>
     <p>Northwestern University</p>
     <p>2016 Sheridan Rd</p>
     <p>Evanston IL USA 60208 </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Nice to meet you. 
