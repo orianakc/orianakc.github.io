@@ -24,7 +24,7 @@ I'm a Postdoctoral Fellow in the Department of Linguistics at Northwestern Unive
 
 My research tackles topics in phonology, phonetics, and speech production. I use the methodologies of acoustic corpus analysis and speech production experiments to investigate _how_ speakers plan what they're about to say, and how that planning affects the _pronunciation_ of what they end up saying. Do you think you might pronounce words differently if you also had to remember a phone number while talking, or if you had to read a sentence full of words that you know but don't use very often? These are a few of the questions I'm trying to answer in my research. 
 
-To learn more, take a look at my projects page, list of publications, and past course descriptions. You can also send me an [email](mailto:oriana.kilbourn-ceron@northwestern.edu), [tweet](https://twitter.com/OrianaKilbourn) at me, or request any of my articles though [ResearchGate](https://www.researchgate.net/profile/Oriana_Kilbourn-Ceron/). You can find any available data and scripts through my [OSF profile](https://osf.io/d6s7w/).
+To learn more, take a look at my curriculum vitae, list of publications, and course descriptions. You can also send me an [email](mailto:oriana.kilbourn-ceron@northwestern.edu), [tweet](https://twitter.com/OrianaKilbourn) at me, or request any of my articles though [ResearchGate](https://www.researchgate.net/profile/Oriana_Kilbourn-Ceron/). You can find any available data and scripts through my [OSF profile](https://osf.io/d6s7w/).
 
 
 

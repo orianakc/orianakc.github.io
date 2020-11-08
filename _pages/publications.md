@@ -2,9 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: >
-    Scholarly papers and presentations. You can also find my work on ResearchGate, GScholar, Publons.
-years: [2020,2019,2018,2017]
+description: 
+years: [2020,2018,2017,2016]
 nav: true
 ---
 
@@ -16,3 +15,10 @@ nav: true
 {% endfor %}
 
 </div>
+
+
+
+
+
+
+
